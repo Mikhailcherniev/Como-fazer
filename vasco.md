@@ -71,4 +71,9 @@
     passo1. tenha uma pasta com o que você quer salvar.
     passo2. abra o Github desktop.
     passo3. adicione um repositório no botão add.
-    passo4. 
+    passo4. clique em adicionar um repositorio existente, que no caso esta em ingles " add a existing repository".
+    passo5. caso você não tenha um, você deve apenas criar um repositorio clicando em "create a new repository.
+    passo6. depois de selecionada a pasta e criado o repositorio, clique em "fretch origin".
+    passo7. e depois disso escolha o que dessejar, se você quer privado ou publico.
+
+    9.
